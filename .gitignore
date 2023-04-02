@@ -1,3 +1,6 @@
+# Ignore raw data files
+Coding Challenge - Data(20221128)/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

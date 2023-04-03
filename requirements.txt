@@ -3,3 +3,11 @@ ipython==8.12.0
 ipykernel==6.22.0
 matplotlib==3.7.1
 seaborn==0.12.2
+tqdm==4.64.0
+LunarCalendar==0.0.9
+pystan==3.6.0
+plotly==5.14.0
+prophet==1.1.2
+ipywidgets==8.0.6
+pandas-profiling==3.2.0
+widgetsnbextension==4.0.7
